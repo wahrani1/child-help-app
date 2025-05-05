@@ -62,7 +62,7 @@
                        href="{{ route('contact') }}">Contact</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link btn btn-danger text-white ms-2" href="{{ route('report.create') }}">Report a
+                    <a class="nav-link btn btn-danger bg-danger  text-white ms-2" href="{{ route('report.create') }}">Report a
                         Child</a>
                 </li>
             </ul>
